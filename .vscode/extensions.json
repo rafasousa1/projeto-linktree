@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "miguelsolorio.symbols",
+    "miguelsolorio.min-theme",
+    "ritwickdey.LiveServer"
+  ]
+}
